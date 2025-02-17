@@ -1,4 +1,3 @@
-// weatherFunction.js
 export function getWeatherReport(city, temperature, condition) {
     return `The weather in ${city} is currently ${temperature}°C with ${condition}.`;
 }

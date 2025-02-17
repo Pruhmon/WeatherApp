@@ -1,5 +1,5 @@
 // main.js
-import { getWeatherReport, getTemperatureMessage } from "./weatherFuncion.js";
+import { getWeatherReport, getTemperatureMessage } from "./weatherFunction.js";
 
 document.addEventListener("DOMContentLoaded", () => {
     const city = "Lake Titicaca";
